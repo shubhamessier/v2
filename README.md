@@ -12,7 +12,7 @@ npm install -g @angular/cli
 
 ### Installing
 
-Just clone  the repo and excecute the following command inside the folder proyect
+Just clone  the repo and excecute the following command inside the folder project
 
 ``` bash
 npm install
@@ -20,10 +20,9 @@ npm install
 
 ### All done!!
 
-Now just run
-```
+run,
+
+```bash
 npm start
 ```
-Wait to compile and go to [http://localhost:4200](http://localhost:4200) after compile finish
-
-=
+Wait to compile and go to [http://localhost:4200](http://localhost:4200) after compilation is done.
