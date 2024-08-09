@@ -208,7 +208,7 @@
       "Title": "Hands Game",
       "Description": "Extended rock-paper-scissors game. A personal project developed in Angular where you play randomly against the machine. It features the use of services, interfaces, and components.",
       "imgs": ["assets/images/hands-game.png"],
-      "ghLink": "https://github.com/andresjosehr/hands-game",
+      "ghLink": "https://www.github.com/shubhamessier//hands-game",
       "demoLink": "https://projects.andresjosehr.com/hands-game",
       "Technologies": ["Angular", "CSS GRID", "SASS", "Angular animations"]
     },
@@ -216,35 +216,35 @@
       "Title": "Countries Viewer",
       "Description": "Interface that consumes a countries API where you can view a list of countries, see details of each country, filter by name and region. It also has a dark mode to switch between dark and light themes.",
       "imgs": ["assets/images/countries-viewer.png"],
-      "ghLink": "https://github.com/andresjosehr/countries-viewer",
+      "ghLink": "https://www.github.com/shubhamessier//countries-viewer",
       "demoLink": "https://projects.andresjosehr.com/countries-viewer",
       "Technologies": ["Angular", "RxJS", "SASS", "API"]
     },
     {
       "Title": "Four Card Feature Section",
       "Description": "A single page with a minimalist design listing 4 features in 4 cards. Entry animations are used with Angular animations.",
-      "ghLink": "https://github.com/andresjosehr/four-card-feature-section",
+      "ghLink": "https://www.github.com/shubhamessier//four-card-feature-section",
       "demoLink": "https://projects.andresjosehr.com/four-card-feature-section",
       "Technologies": ["Angular", "SASS", "CSS GRID"]
     },
     {
       "Title": "Social Proof Section",
       "Description": "Personal project of a page designed from a design made in Figma. Angular was used for development along with SASS and CSS GRID.",
-      "ghLink": "https://github.com/andresjosehr/social-proof-section",
+      "ghLink": "https://www.github.com/shubhamessier//social-proof-section",
       "demoLink": "https://projects.andresjosehr.com/social-proof-section",
       "Technologies": ["Angular", "CSS GRID", "GIT"]
     },
     {
       "Title": "FAQ Accordion Card",
       "Description": "Frequently asked questions accordion with logic and animations made in Angular.",
-      "ghLink": "https://github.com/andresjosehr/faq-accordion",
+      "ghLink": "https://www.github.com/shubhamessier//faq-accordion",
       "demoLink": "https://projects.andresjosehr.com/faq-accordion",
       "Technologies": ["Angular", "CSS GRID", "Angular animations"]
     },
     {
       "Title": "Profile Card",
       "Description": "Simple design of a page featuring a profile card with basic information of a person.",
-      "ghLink": "https://github.com/andresjosehr/profile-card-component",
+      "ghLink": "https://www.github.com/shubhamessier//profile-card-component",
       "demoLink": "https://projects.andresjosehr.com/profile-card-component",
       "Technologies": ["Angular", "SASS", "GIT"]
     }

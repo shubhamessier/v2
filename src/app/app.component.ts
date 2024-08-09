@@ -27,7 +27,7 @@ export class AppComponent implements OnInit{
     this.languageService.initLanguage()
 
 
-    this.titleService.setTitle( "José Andrés | Frontend Developer" );
+    this.titleService.setTitle( "Shubham Gaur" );
 
     this.metaService.addTags([
       {name: 'keywords', content: 'Frontend, software, developer'},
